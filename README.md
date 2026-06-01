@@ -3,3 +3,10 @@
 My first Git respositorys.
 
 Learning Git and GitHub.
+
+Learning HTML.
+
+Learning CSS.
+
+Learning JavaScript.
+Learning Git.
