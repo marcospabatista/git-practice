@@ -11,6 +11,9 @@ Learning CSS.
 Learning JavaScript.
 Learning Git.
 
+Markdown
+
+Learning Git Pull
 ## Goals
 
 Learn Git
